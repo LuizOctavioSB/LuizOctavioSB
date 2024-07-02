@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Luiz Octávio and I am a student of Information Systems at the Federal University of Uberlândia (UFU), in Brazil.</p>
+<p align="left">Meu nome é Luiz Octávio, sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia</p>
 
 ###
 
-<h3 align="left">A little about me:</h3>
+<h3 align="left">Um pouco sobre mim:</h3>
 
 ###
 
-<p align="left">I will currently post some things that I see and do at university...</p>
+<p align="left">Aqui vou publicar um pouco de projetos pessoais e universitários</p>
 
 ###
 
