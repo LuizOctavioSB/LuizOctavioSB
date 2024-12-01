@@ -1,53 +1,39 @@
-<h2 align="left">Welcome to my profile!</h2>
+# Bem-vindo ao meu perfil!
 
-###
+Olá! Meu nome é **Luiz Octávio**, sou estudante de **Sistemas de Informação** na **Universidade Federal de Uberlândia**.
 
-<p align="left">Meu nome é Luiz Octávio, sou estudante de Sistemas de Informação na Universidade Federal de Uberlândia</p>
+## Um pouco sobre mim
 
-###
+Aqui você encontrará alguns dos meus projetos pessoais e universitários.
 
-<h3 align="left">Um pouco sobre mim:</h3>
+---
 
-###
-
-<p align="left">Aqui vou publicar um pouco de projetos pessoais e universitários</p>
-
-###
-
-<br clear="both">
-
-<div align="left">  
-  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api?username=LuizOctavioSB&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&theme=transparent" alt="Luiz Octavio Sacchetin github stats" /> 
-  <img width="41%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOctavioSB&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&theme=transparent" />
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LuizOctavioSB&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&theme=transparent" alt="Estatísticas do GitHub de Luiz Octavio" /> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOctavioSB&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&theme=transparent" alt="Linguagens mais usadas" />
 </div>
 
-###
+---
 
-<h3 align="left">Algumas das linguagens que estou aprendendo atualmente são:</h3>
+## Tecnologias e linguagens
 
-###
+Atualmente, estou aprendendo e trabalhando com as seguintes tecnologias:
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="HTML5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="CSS3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="JavaScript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="PHP logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="PostgreSQL logo"  />
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
 
-###
+---
 
-<h6 align="left">Social media:</h6>
+## Redes Sociais
 
-###
+Entre em contato comigo:
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/luizoctaviosb/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
-  </a>
-  <a href="https://www.instagram.com/luizsacchetin/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo"  />
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/luizoctaviosb/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/luizsacchetin/)
 
-###
+---
