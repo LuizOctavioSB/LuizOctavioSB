@@ -8,10 +8,12 @@ Aqui você encontrará alguns dos meus projetos pessoais e universitários.
 
 ---
 
-<div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LuizOctavioSB&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&theme=transparent" alt="Estatísticas do GitHub de Luiz Octavio" /> 
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOctavioSB&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&theme=transparent" alt="Linguagens mais usadas" />
-</div>
+## Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizOctavioSB&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="Estatísticas do GitHub de Luiz Octavio"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizOctavioSB&layout=compact&hide_border=true&theme=radical" alt="Linguagens mais usadas"/>
+</p>
 
 ---
 
@@ -33,7 +35,7 @@ Atualmente, estou aprendendo e trabalhando com as seguintes tecnologias:
 
 Entre em contato comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/luizoctaviosb/)
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/luizsacchetin/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luizoctaviosb/)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/luizsacchetin/)
 
 ---
